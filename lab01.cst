@@ -1,0 +1,6 @@
+IO_LOC "i_sw1"  B16;
+IO_LOC "i_sw2"  A15;
+IO_LOC "i_sw3"  C15;
+IO_LOC "o_led1" D14;
+IO_LOC "o_led2" C14;
+IO_LOC "o_led3" B9;
